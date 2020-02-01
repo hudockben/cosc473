@@ -71,7 +71,7 @@ if($_GET['error']==1){
 </form>
 
 <footer>
-  	<p>PSH Web Design, Don't Copy Shit &copy; 2020</p>
+  	<p>PSH Web Design, Don't Copy anything &copy; 2020</p>
   </footer>
   
 </body>
